@@ -1,0 +1,161 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+.header{
+    width: 254px;
+    height: 64px;
+    font-weight: 400;
+    font-size: 64;
+    line-height: 64px;
+    color: #4b4b4b;
+    display: flex;
+    margin-left: 104px;
+}
+.navbar {
+    width: 492px;
+    height: 40px;
+    padding: 8px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 475px;
+}
+.all{
+    width: 29px;
+    height: 24px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    color:#4b4b4b;
+    display: flex;
+}
+.others{
+    width: 50px;
+    height: 24px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    color: rgba(75, 75, 75, 0.5);
+    display: block;
+}
+.wholething{
+    width: 100%;
+    height: 1035px;
+    margin-top: 249px;
+    padding: auto;
+    display:flex;
+    gap: 65px;
+    justify-content: center;
+}
+/*პირველი კონტეინერი*/
+.one{
+    width: 366px;
+    height: 420px;
+    background: #FAF4EF;
+    border-radius: 0px 0px 0px 50px;
+}
+.ChaiseMolle{
+    width: 289px;
+    height: 54px;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 36px;
+    color: #4B4B4B;
+    margin-top: 43px;
+    margin-left: 46.11px;
+}
+.price1{
+    width: 177.98px;
+    height: 41px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    color: #737373;
+    margin-left: 46.11px;
+}
+.puff{
+    background-image: url(puff.png);
+    margin-top: 36px;
+    margin-left: 67px;
+    width: 231.13px;
+    height: 285px;
+}
+/*მეორე კონტეინერი*/
+.two{
+    width: 366px;
+    height: 420px;
+    background: #FAF4EF;
+    border-radius: 0px 0px 0px 50px;
+
+}
+.savardzeli{
+    background-image: url(savardzeli.png);
+    margin-top: 51.5px;
+    margin-left: 33px;
+    width: 299px;
+    height: 299px;
+}
+/*მესამე კონტეინერი*/
+.three{
+    width: 366px;
+    height: 420px;
+    background: #FAF4EF;
+    border-radius: 0px 0px 0px 50px;
+}
+.lamp{
+    background-image: url(lamp.png);
+    margin-top: 22px;
+    margin-left: 18px;
+    width: 329px;
+    height: 329px;
+}
+/*მეოთხე კონტეინერი*/
+.four{
+    width: 366px;
+    height: 420px;
+    background: #FAF4EF;
+    border-radius: 0px 0px 0px 50px;
+    margin-top: 550px;
+    margin-left: -1295px;
+}
+.sofa{
+    background-image: url(sofa.png);
+    margin-top: 12px;
+    margin-left: 21px;
+    width: 340px;
+    height: 340px;
+}
+/*მეხუთეე კონტეინერი*/
+.five{
+    width: 366px;
+    height: 420px;
+    background: #FAF4EF;
+    border-radius: 0px 0px 0px 50px;
+    margin-top: 550px;
+}
+.wardrobe{
+    background-image: url(wardrobe.png);
+    margin-top: 79px;
+    margin-left: 16px;
+    width: 333px;
+    height: 205px;
+}
+/*მეექვსე კონტეინერი*/
+.six{
+    width: 366px;
+    height: 420px;
+    background: #FAF4EF;
+    border-radius: 0px 0px 0px 50px;
+    margin-top: 550px;
+}
+.couch{
+    background-image: url(couch.png);
+    margin-top: 76px;
+    margin-left: 27px;
+    width: 327px;
+    height: 261px;
+}
